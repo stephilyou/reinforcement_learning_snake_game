@@ -1,4 +1,4 @@
-# reinforcement_learning_snake_game
+# Reinforcement Learning Snake Game
 
 Our program uses PyGame, PyTorch, and numpy which you need to install on your computer:
 
